@@ -9,11 +9,10 @@
 
 ## 🙋‍♂️ Sobre Mim
 
-- 🔭 Atualmente trabalhando em projetos open source
-- 🌱 Atualmente aprendendo React e Next.js
-- 👯 Buscando colaborar em projetos interessantes
-- 💬 Pergunte-me sobre UI/UX e Frontend
-- 📫 Como me alcançar: email@exemplo.com
+- gosto de videos de idosos pendurados na sacada
+- criar jogos sobre sacadas e velhos
+- hobbie: assistir idosos nas sacadas
+-jogo preferido: old man in the sacada
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5sMzB1eXF3MWs3ZmtkMGlxNGFibWp2NHhlcW9jMXU5Y2plYjkyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Nle87WgNwDbsj3P4Y/giphy.gif" width="500" alt="GIF" style="border-radius: 12px;"/>
