@@ -1,1 +1,15 @@
+// Seleciona o botão de troca de tema
+const themeToggleBtn = document.getElementById('theme-toggle');
 
+// Adiciona o evento de clique
+themeToggleBtn.addEventListener('click', () => {
+    // Alterna a classe 'sage-mode' no elemento <body>
+    document.body.classList.toggle('sage-mode');
+
+    // Altera o texto do botão dependendo do modo ativo
+    if (document.body.classList.contains('sage-mode')) {
+        themeToggleBtn.textContent = 'Desativar Modo Sage';
+    } else {
+        themeToggleBtn.textContent = 'Ativar Modo Sage';
+    }
+});
